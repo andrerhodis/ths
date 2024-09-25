@@ -1,0 +1,2 @@
+# ths
+Iniciando os scripts!
