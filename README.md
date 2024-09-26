@@ -12,10 +12,12 @@ Status (Concluído # | Pendente *)
 
 -Criar Repository para cada tabela *
 
-*Service *
+-Service *
 
--Criar funções: Listar, mapeamento*
+-Criar funções: Listar, mapeamento *
 
--Criar Controller para Pessoa e Produto*
+-Criar Controller para Pessoa e Produto *
 
--Criação do CRUD no Controller*
+-Criação do CRUD no Controller *
+
+-GET e SET *
