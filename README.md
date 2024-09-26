@@ -17,3 +17,5 @@ Status (Concluído # | Pendente *)
 -Criar funções: Listar, mapeamento*
 
 -Criar Controller para Pessoa e Produto*
+
+-Criação do CRUD no Controller*
