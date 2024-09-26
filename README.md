@@ -16,4 +16,4 @@ Status (Concluído # | Pendente *)
 
 -Criar funções: Listar, mapeamento*
 
--Criar Controller para cada tabela*
+-Criar Controller para Pessoa e Produto*
