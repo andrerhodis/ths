@@ -3,6 +3,7 @@ Iniciando os scripts!
 
 Status (Concluído # | Pendente *)
 
+
 -Criar um repositório #
 
 -Criar Pasta Package para cada tabela #
