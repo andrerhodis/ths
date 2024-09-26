@@ -4,11 +4,11 @@ Iniciando os scripts!
 Status (Concluído # | Pendente *)
 
 
--Criar um repositório #
+-Criar um repositório #25/08
 
--Criar Pasta Package para cada tabela #
+-Criar Pasta Package para cada tabela #25/08
 
--Criar cada tabela dentro do db.imigration #
+-Criar cada tabela dentro do db.imigration #25/08
 
 -Criar Repository para cada tabela *
 
