@@ -48,6 +48,11 @@ QUAIS FORAM OS IMPEDIMENTOS?
 O QUE FALTA?
 
 -Adaptar os códigos de cada um para um único PC (PC do Antônio).
+
+-Fazer conexão com o Workbench.
+
+-Juntar O Front-end com o Back-end.
+
 -Realizar testes.
 
 
