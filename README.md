@@ -12,13 +12,13 @@ Status (Concluído # | Pendente *)
 
 -Criar Repository para cada tabela #26/09
 
--Service 3
+-Service #
 
 -Criar funções: Listar, mapeamento #
 
 -Criar Controller para Pessoa e CadastroDeProduto #
 
--Criação do CRUD no Controller *
+-Criação do CRUD no Controller #
 
 -GET e SET #
 
